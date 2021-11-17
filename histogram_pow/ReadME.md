@@ -1,6 +1,11 @@
-## sorting_algorithms 	
-### Sorting algorithms: Bubble, Insertion, Quick, Shell, Selectio
+## histogram_pow 	
+### Histogram pow, output formatting
 
-<img src="https://github.com/VoltG3/Cpp/blob/master/sorting_algorithms/img/Linux.png" alt="img"> 
-<img src="https://github.com/VoltG3/Cpp/blob/master/sorting_algorithms/img/MacOS.png" alt="img"> 
-<img src="https://github.com/VoltG3/Cpp/blob/master/sorting_algorithms/img/Win32.jpg" alt="img"> 
+#### Histogram
+<img src="https://github.com/VoltG3/Cpp/blob/master/histogram_pow/img/histogram_Linux.png" alt="img"> 
+<img src="https://github.com/VoltG3/Cpp/blob/master/histogram_pow/img/histogram_macOS.png" alt="img"> 
+<img src="https://github.com/VoltG3/Cpp/blob/master/histogram_pow/img/histogram_WIN32.jpg" alt="img"> 
+
+#### Pow
+<img src="https://github.com/VoltG3/Cpp/blob/master/histogram_pow/img/pow_Linux.png" alt="img">
+<img src="https://github.com/VoltG3/Cpp/blob/master/histogram_pow/img/pow_macOS.png" alt="img"> 
