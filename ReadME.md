@@ -1,5 +1,3 @@
-C++ learning process
-
 <table>
   <tr>
     <td><strong>sorting_algorithms</strong></td>
@@ -17,7 +15,7 @@ C++ learning process
   </tr>
   <tr>
     <td><strong>int_as_double_recursive</strong></td>
-    <td>Int as doubble, recursive algorithms - GNU NANO</td>
+    <td>Int as doubble, recursive algorithms - gnu nano</td>
     <td><strong>Linux</strong></td>
     <td></td>
     <td></td>
